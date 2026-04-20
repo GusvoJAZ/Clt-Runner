@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_personagem",
-  "spriteId": {
-    "name": "spr_personagem",
-    "path": "sprites/spr_personagem/spr_personagem.yy",
-  },
+  "name": "obj_trocar_pag",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -25,10 +22,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":37,"eventType":9,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":39,"eventType":9,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,},
   ],
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"destino","varType":5,"value":"rm_quadrinho_2","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[
+        "GMRoom",
+      ],},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
