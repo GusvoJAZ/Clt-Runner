@@ -26,7 +26,7 @@
     {"id":{"name":"rm_quadrinho_1","path":"rooms/rm_quadrinho_1/rm_quadrinho_1.yy",},"order":1,},
     {"id":{"name":"rm_quadrinho_3","path":"rooms/rm_quadrinho_3/rm_quadrinho_3.yy",},"order":3,},
     {"id":{"name":"snd_comida","path":"sounds/snd_comida/snd_comida.yy",},"order":0,},
-    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":12,},
+    {"id":{"name":"spr_musica","path":"sprites/spr_musica/spr_musica.yy",},"order":12,},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":5,},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},"order":0,},
   ],

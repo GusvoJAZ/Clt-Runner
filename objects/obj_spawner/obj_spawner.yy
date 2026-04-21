@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_spawner",
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "spr_musica",
+    "path": "sprites/spr_musica/spr_musica.yy",
   },
   "solid": false,
   "visible": true,
